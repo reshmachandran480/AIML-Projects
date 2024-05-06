@@ -1,11 +1,27 @@
-# AIML-Projects
+# Great Learning PGP AIML Program Projects
+This repository contains projects completed as part of the Great Learning Post-Graduate Program in Artificial Intelligence and Machine Learning (PGP AIML). Below is a brief overview of each project:
 
-This repository contains a collection of projects on Artificial Intelligence and Machine Learning (AI/ML), which I pursued as part of the certificate program from Great Lakes. Each project focuses on a specific aspect of AIML, including Applied Statistics, Supervised Learning, Ensemble Techniques, Unsupervised Learning, Feature Engineering, Neural Networks(NN), Computer Vision(CV), and Natural Language Processing(NLP).
+## Applied Statistics
+- https://github.com/reshmachandran480/AIML-Projects/blob/main/Applied%20Statistics.ipynb
+  
+## Computer Vision - Face Recognition
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Computer%20Vision%20-%20Face%20Recognition.ipynb
 
-### **NLP (Sequential_NLP):** 
+## Ensemble Techniques
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Ensemble%20Techniques.ipynb
+  
+## Featurization, Model Selection & Tuning
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Featurization%2C%20Model%20Selection%20%26%20Tuning.ipynb
+    
+## Introduction to Neural Network and Deep Learning
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.ipynb
+## NLP Sequential NLP
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/NLP_Sequential_NLP.ipynb
+## Supervised Learning
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Supervised%20Learning.ipynb
+## Unsupervised Learning
+  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Unsupervised%20Learning.ipynb
 
-Through this Natural Language Processing (NLP) project, I developed expertise in implementing sequential NLP-based text classifiers for distinct industry applications. In the digital content and entertainment realm, I constructed a sentiment classifier leveraging customer reviews from the IMDB database, employing techniques such as Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and word embeddings like GloVe. Additionally, for a social media analytics company, I designed a sarcasm detection system utilizing similar sequential NLP methodologies. This project honed my skills in RNN, LSTM, and classification and provided hands-on experience with TensorFlow, facilitating the effective analysis of textual data for sentiment assessment and sarcasm detection in real-world contexts.
+    
+For detailed information on each project, please refer to the respective Jupyter Notebook file.
 
-### **Neural Networks & Deep Learning:**
-
-Throughout the "Introduction to Neural Networks and Deep Learning" project, I delved into the realms of electronics and telecommunication, mastering the intricacies of neural networks and deep learning methodologies. My journey culminated in two significant sub-projects. In Part 1, I crafted a neural network regressor and classifier tailored for a communications equipment manufacturer. Leveraging TensorFlow, the model adeptly predicted signal quality based on diverse product parameters, crucial for emitting informative signals. Part 2 saw me develop an image classifier capable of discerning numbers from street-level photographs, employing sophisticated neural network architectures. This immersive experience honed my skills in image recognition and solidified my understanding of applying neural networks in real-world scenarios, marking a significant achievement in my learning journey.
