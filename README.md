@@ -2,25 +2,25 @@
 This repository contains projects completed as part of the Great Learning Post-Graduate Program in Artificial Intelligence and Machine Learning (PGP AIML). Below is a brief overview of each project:
 
 ## Applied Statistics
-- https://github.com/reshmachandran480/AIML-Projects/blob/main/Applied%20Statistics.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Applied%20Statistics.ipynb
   
 ## Computer Vision - Face Recognition
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Computer%20Vision%20-%20Face%20Recognition.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Computer%20Vision%20-%20Face%20Recognition.ipynb
 
 ## Ensemble Techniques
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Ensemble%20Techniques.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Ensemble%20Techniques.ipynb
   
 ## Featurization, Model Selection & Tuning
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Featurization%2C%20Model%20Selection%20%26%20Tuning.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Featurization%2C%20Model%20Selection%20%26%20Tuning.ipynb
     
 ## Introduction to Neural Network and Deep Learning
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.ipynb
 ## NLP Sequential NLP
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/NLP_Sequential_NLP.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/NLP_Sequential_NLP.ipynb
 ## Supervised Learning
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Supervised%20Learning.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Supervised%20Learning.ipynb
 ## Unsupervised Learning
-  - https://github.com/reshmachandran480/AIML-Projects/blob/main/Unsupervised%20Learning.ipynb
+  https://github.com/reshmachandran480/AIML-Projects/blob/main/Unsupervised%20Learning.ipynb
 
     
 For detailed information on each project, please refer to the respective Jupyter Notebook file.
