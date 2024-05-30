@@ -2,6 +2,19 @@
 This repository contains projects completed as part of the Great Learning Post-Graduate Program in Artificial Intelligence and Machine Learning (PGP AIML). Below is a brief overview of each project:
 
 ## Applied Statistics
+#### Project Description
+This project leverages statistical analysis and visualization techniques to address industry problems, analyze past tournament data for investment decisions, and evaluate startups from the Startup Battlefield competition. It is divided into three parts:
+
+- **Answering Industry Problems:** Applying statistical inferences to real-world industry data to make data-driven decisions.
+- **Analyzing Tournament Information:** Assessing historical tournament data to identify trends and inform investment decisions.
+- **Evaluating Startups:** Analyzing the performance of startups from the Startup Battlefield competition to identify success factors and investment opportunities.
+
+#### Skills & Tools Covered
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Inference
+- Hypothesis Testing
+- Python
   https://github.com/reshmachandran480/AIML-Projects/blob/main/Applied%20Statistics.ipynb
   
 ## Computer Vision - Face Recognition
