@@ -78,10 +78,8 @@ This project, part of the Introduction to Neural Networks and Deep Learning cour
 - Deep Learning
 - TensorFlow
 - Image Recognition
-
-   https://github.com/reshmachandran480/AIML
-  Projects/blob/main/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.ipynb
-
+  
+  https://github.com/reshmachandran480/AIML Projects/blob/main/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning.ipynb
 ## NLP Sequential NLP
 ### Project Description
 This project, part of the Natural Language Processing course, delivers two sub-projects focused on sequential NLP:
